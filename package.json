@@ -1,0 +1,23 @@
+{
+  "name": "sticky-nav-javascript",
+  "version": "1.0.0",
+  "description": "Make the navigation bar stick with at the top with JavaScript.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikkimahato/Sticky-Nav-JavaScript.git"
+  },
+  "author": "Bikki Mahato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikkimahato/Sticky-Nav-JavaScript/issues"
+  },
+  "homepage": "https://github.com/bikkimahato/Sticky-Nav-JavaScript#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
